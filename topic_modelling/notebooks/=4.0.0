@@ -1,0 +1,3 @@
+Requirement already satisfied: plotly in /usr/local/lib/python3.6/dist-packages (4.4.1)
+Requirement already satisfied: six in /usr/local/lib/python3.6/dist-packages (from plotly) (1.15.0)
+Requirement already satisfied: retrying>=1.3.3 in /usr/local/lib/python3.6/dist-packages (from plotly) (1.3.3)

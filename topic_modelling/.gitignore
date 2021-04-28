@@ -1,0 +1,10 @@
+.DS_Store
+venv/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+input/
+output/
+desktop.ini
+dumps/
+*.csv
