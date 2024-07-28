@@ -1,0 +1,24 @@
+cluster_number,words_in_cluster
+1,[]
+2,"[('drive', 6), ('autonomous', 5), ('feature', 4), ('night', 3), ('autonomous_drive', 3), ('latest', 2), ('feature_latest', 2), ('vision', 2), ('night_vision', 2), ('vision_feature', 2)]"
+3,"[('drive', 3), ('handle', 2), ('love', 2), ('highway', 2), ('autopilot', 2), ('feature', 1), ('change', 1), ('experience', 1), ('long', 1), ('lanes', 1)]"
+4,"[('detection', 2), ('safer', 2), ('spot', 2), ('feel_safer', 2), ('warn', 1), ('react', 1), ('love', 1), ('vehicles', 1), ('lanes', 1)]"
+5,"[('traffic', 4), ('autonomous', 4), ('assist', 3), ('lane', 3), ('seamlessly', 2), ('vehicles', 2), ('curve', 1), ('excite', 1), ('tech', 1), ('great', 1)]"
+6,"[('limit', 2), ('help', 2), ('avoid', 2), ('speed', 1), ('display', 1), ('alert', 1), ('potential', 1), ('issue', 1), ('worry', 1), ('warn', 1)]"
+7,"[('handle', 1), ('emergency', 1), ('worry', 1)]"
+8,"[('view', 3), ('windshield', 2), ('display', 2), ('park', 1), ('avoid', 1), ('navigation', 1), ('directions', 1), ('real', 1), ('mirror', 1)]"
+9,[]
+10,[]
+11,[]
+12,[]
+13,"[('control', 5), ('maintain', 2), ('impress', 1), ('adaptive', 1), ('vehicle', 1), ('love', 1), ('change', 1), ('settings', 1), ('directions', 1), ('wheel', 1)]"
+14,[]
+15,"[('wind', 2), ('roads', 2), ('wind_roads', 2), ('work', 1), ('adaptive', 1), ('headlights', 1), ('follow', 1), ('curve', 1), ('night', 1)]"
+16,"[('reduce', 2), ('work', 2), ('drive', 1), ('smoother', 1), ('make_drive', 1), ('sure', 1), ('feature', 1), ('stressful', 1), ('impress', 1), ('mirror', 1)]"
+17,[]
+18,[]
+19,[]
+20,[]
+21,"[('great', 2), ('feature', 2), ('long', 2), ('drive', 2), ('great_feature', 2), ('feature_long', 2), ('long_drive', 2), ('truly', 1), ('safer', 1), ('driver', 1)]"
+22,"[('automatically', 3), ('adjust', 3), ('base', 2), ('automatically_adjust', 2), ('rain', 2), ('automatic', 1), ('traffic', 1), ('love', 1), ('driver', 1), ('settings', 1)]"
+23,"[('feature', 7), ('park', 6), ('save', 5), ('automatic', 3), ('traffic', 3), ('autonomous', 3), ('spot', 2), ('life', 2), ('brake', 2), ('park_feature', 2)]"

@@ -1,0 +1,24 @@
+cluster_number,words_in_cluster
+1,"[('save', 2), ('limit', 2), ('automatic', 1), ('emergency', 1), ('brake', 1), ('potential', 1), ('accident', 1), ('truly', 1), ('life', 1), ('speed', 1)]"
+2,"[('reduce', 2), ('mirror', 1), ('smoother', 1), ('sure', 1), ('impress', 1), ('headlights', 1)]"
+3,[]
+4,"[('cars', 2), ('park', 1)]"
+5,[]
+6,"[('worry', 1), ('handle', 1), ('emergency', 1)]"
+7,"[('autonomous', 5), ('sure', 1), ('safety', 1), ('issue', 1), ('autonomous_drive', 1), ('traffic', 1), ('seamlessly', 1), ('follow', 1), ('vehicle', 1), ('self', 1)]"
+8,[]
+9,"[('long', 2), ('long_drive', 2), ('great', 2), ('great_feature', 2), ('feature_long', 2), ('autonomous', 2), ('autonomous_drive', 1), ('truly', 1), ('safer', 1), ('brake', 1)]"
+10,"[('rain', 3), ('experience', 2), ('warn', 1), ('great', 1), ('lane', 1), ('wheel', 1), ('automatically', 1), ('adjust', 1), ('speed', 1), ('base', 1)]"
+11,"[('love', 2), ('autopilot', 2), ('handle', 2), ('highway', 2), ('change', 1), ('long', 1), ('lanes', 1), ('speed', 1), ('long_drive', 1)]"
+12,[]
+13,"[('control', 5), ('maintain', 2), ('impress', 1), ('experience', 1), ('work', 1), ('adaptive', 1), ('vehicle', 1), ('love', 1), ('change', 1), ('settings', 1)]"
+14,"[('park', 4), ('traffic', 3), ('park_feature', 2), ('spot', 2), ('autonomous', 2), ('feature_autonomous', 2), ('save', 2), ('automatic', 1), ('self', 1), ('alert', 1)]"
+15,"[('park', 2), ('view', 1), ('life', 1), ('avoid', 1)]"
+16,[]
+17,"[('alert', 1), ('help', 1), ('avoid', 1), ('potential', 1), ('issue', 1), ('worry', 1), ('mirror', 1), ('display', 1), ('view', 1)]"
+18,"[('wind', 2), ('roads', 2), ('wind_roads', 2), ('work', 2), ('curve', 2), ('lane', 2), ('assist', 1), ('autonomous', 1), ('stressful', 1), ('make_drive', 1)]"
+19,"[('adjust', 2), ('automatically', 2), ('love', 2), ('automatic', 2), ('base', 1), ('automatically_adjust', 1), ('traffic', 1), ('update', 1), ('driver', 1), ('settings', 1)]"
+20,[]
+21,"[('detection', 2), ('safer', 2), ('spot', 2), ('feel_safer', 2), ('vehicles', 2), ('warn', 2), ('react', 2), ('tech', 1), ('love', 1), ('lanes', 1)]"
+22,"[('night', 3), ('vision', 2), ('night_vision', 2), ('vision_feature', 2), ('autonomous', 2), ('latest', 2), ('feature_latest', 2), ('autonomous_drive', 1), ('excite', 1), ('update', 1)]"
+23,"[('traffic', 3), ('assist', 2), ('navigation', 2), ('efficient', 2), ('real', 1), ('safer', 1), ('tech', 1), ('drive_safer', 1), ('avoid', 1), ('stressful', 1)]"
